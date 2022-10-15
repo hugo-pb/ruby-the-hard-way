@@ -15,5 +15,5 @@ require './filters'
 # qa = qualified_candidates(@candidates)
 # pp qa
 
-res = ordered_by_qualifications(@candidates)
-pp res
+# res = ordered_by_qualifications(@candidates)
+# pp res
